@@ -1,2 +1,3 @@
-# drovio-app-contacts
-Contacts
+# Contacts
+
+Contact Management Application
